@@ -1,4 +1,4 @@
 # Hello-world
 Eka Repo
 
-Poettelen tässä Git Hubin käyttöä
+Opettelen tässä Git Hubin käyttöä
