@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T09:44:35.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oM0Whx5M5hp56ZcZCYSW" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T09:47:03.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8jIMosYAbSEzTTtd0FFx" version="23.0.2" type="github">
   <diagram name="Sivu-1" id="tPKKpUlC1xmp844Ijw2Z">
     <mxGraphModel dx="794" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,8 +25,26 @@
         <mxCell id="TjZULCAZXtBY_xfUqcmY-4" value="Show logo from art.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="60" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TjZULCAZXtBY_xfUqcmY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="150" as="sourcePoint" />
+            <mxPoint x="400" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TjZULCAZXtBY_xfUqcmY-7" value="Ask for Name input" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="341" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TjZULCAZXtBY_xfUqcmY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="210" as="sourcePoint" />
+            <mxPoint x="399" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TjZULCAZXtBY_xfUqcmY-12" value="Ask for bind Price" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TjZULCAZXtBY_xfUqcmY-15" value="Add Name and Bid into a dictionary as the key and value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311" y="230" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
